@@ -1,0 +1,7 @@
+asyncio
+aiohttp
+pandas
+lxml
+openpyxl
+pyarrow
+fastparquet
